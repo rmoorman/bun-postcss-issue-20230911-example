@@ -1,0 +1,17 @@
+{
+  "name": "via-npm-esbuild",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@deanc/esbuild-plugin-postcss": "^1.0.2",
+    "autoprefixer": "^10.4.15",
+    "esbuild": "^0.19.2"
+  }
+}
